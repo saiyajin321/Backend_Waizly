@@ -1,0 +1,182 @@
+[
+      {
+        "name": "White Shirt",
+        "CategoryId": 1,
+        "color": "White",
+        "size": "L",
+        "price": 250000,
+        "description": "Modern white men's shirt with a comfortable fit.",
+        "UserId" : 1
+      },
+      {
+        "name": "Plain T-Shirt",
+        "CategoryId": 2,
+        "color": "Black",
+        "size": "M",
+        "price": 80000,
+        "description": "Black plain t-shirt suitable for casual everyday wear.",
+        "UserId" : 1
+      },
+      {
+        "name": "Jeans",
+        "CategoryId": 3,
+        "color": "Blue",
+        "size": "32",
+        "price": 300000,
+        "description": "Blue jeans with a stylish design and comfortable fit.",
+        "UserId" : 1
+      },
+      {
+        "name": "Floral Blouse",
+        "CategoryId": 4,
+        "color": "Pink",
+        "size": "S",
+        "price": 150000,
+        "description": "Pink floral blouse perfect for a relaxed event.",
+        "UserId" : 1
+      },
+      {
+        "name": "Leather Jacket",
+        "CategoryId": 5,
+        "color": "Brown",
+        "size": "XL",
+        "price": 600000,
+        "description": "High-quality brown leather jacket, durable and stylish.",
+        "UserId" : 1
+      },
+      {
+        "name": "Striped Shirt",
+        "CategoryId": 1,
+        "color": "Blue/Navy",
+        "size": "M",
+        "price": 220000,
+        "description": "Men's shirt with blue stripes for an elegant look.",
+        "UserId" : 1
+      },
+      {
+        "name": "Graphic Tee",
+        "CategoryId": 2,
+        "color": "White",
+        "size": "L",
+        "price": 75000,
+        "description": "Cool graphic tee suitable for casual style.",
+        "UserId" : 1
+      },
+      {
+        "name": "Long Pants",
+        "CategoryId": 3,
+        "color": "Black",
+        "size": "30",
+        "price": 180000,
+        "description": "Black long pants with quality fabric and modern design.",
+        "UserId" : 1
+      },
+      {
+        "name": "Polka Dot Blouse",
+        "CategoryId": 4,
+        "color": "Black/White",
+        "size": "M",
+        "price": 130000,
+        "description": "Black and white polka dot blouse for an interesting look.",
+        "UserId" : 1
+      },
+      {
+        "name": "Denim Jacket",
+        "CategoryId": 5,
+        "color": "Blue",
+        "size": "L",
+        "price": 280000,
+        "description": "Blue denim jacket with modern and trendy accents.",
+        "UserId" : 1
+      },
+      {
+        "name": "Plaid Shirt",
+        "CategoryId": 1,
+        "color": "Red/Navy",
+        "size": "L",
+        "price": 210000,
+        "description": "Men's plaid shirt in red/navy, perfect for casual wear.",
+        "UserId" : 1
+      },
+      {
+        "name": "Polo Shirt",
+        "CategoryId": 2,
+        "color": "Navy",
+        "size": "M",
+        "price": 95000,
+        "description": "Quality navy polo shirt suitable for casual style.",
+        "UserId" : 1
+      },
+      {
+        "name": "Shorts",
+        "CategoryId": 3,
+        "color": "Khaki",
+        "size": "32",
+        "price": 120000,
+        "description": "Khaki shorts with a comfortable design for warm weather.",
+        "UserId" : 1
+      },
+      {
+        "name": "White Blouse",
+        "CategoryId": 4,
+        "color": "White",
+        "size": "S",
+        "price": 110000,
+        "description": "Simple white blouse perfect for a relaxed look.",
+        "UserId" : 1
+      },
+      {
+        "name": "Parka Jacket",
+        "CategoryId": 5,
+        "color": "Green",
+        "size": "XL",
+        "price": 400000,
+        "description": "Stylish green parka jacket suitable for cold weather.",
+        "UserId" : 1
+      },
+      {
+        "name": "Batik Shirt",
+        "CategoryId": 1,
+        "color": "Brown",
+        "size": "M",
+        "price": 180000,
+        "description": "Traditional batik shirt with intricate motifs for formal occasions.",
+        "UserId" : 1
+      },
+      {
+        "name": "Raglan Tee",
+        "CategoryId": 2,
+        "color": "Gray/Black",
+        "size": "L",
+        "price": 85000,
+        "description": "Casual raglan tee with gray and black color combination.",
+        "UserId" : 1
+      },
+      {
+        "name": "Jogger Pants",
+        "CategoryId": 3,
+        "color": "Gray",
+        "size": "S",
+        "price": 150000,
+        "description": "Comfortable gray jogger pants for relaxed activities.",
+        "UserId" : 1
+      },
+      {
+        "name": "Floral Blouse",
+        "CategoryId":4,
+        "color": "Blue",
+        "size": "M",
+        "price": 125000,
+        "description": "Blue floral blouse with a feminine touch.",
+        "UserId" : 1
+      },
+      {
+        "name": "Bomber Jacket",
+        "CategoryId": 5,
+        "color": "Black",
+        "size": "L",
+        "price": 320000,
+        "description": "Modern and cool black bomber jacket.",
+        "UserId" : 1
+      }
+    ]
